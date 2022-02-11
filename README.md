@@ -1,4 +1,4 @@
-# Hi there! I'm Fara (She/her) 👋👩‍💻   
+# Hi there! I'm Farida (She/her) 👋👩‍💻   
 Here a few things about me:   
 - I'm a self-taught developer, learning from so many wonderful and inspiring tech people on the internet
 - I really love creating neat, clean, and responsive websites (I'm pretty much a perfectionist when it comes to creating things)
