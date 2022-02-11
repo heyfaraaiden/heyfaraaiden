@@ -19,10 +19,11 @@ Here a few things about me:
 <img src="/logo-images/npm-logo.png" alt="NPM" title="NPM" style="height: 36px" />
 <img src="/logo-images/webpack-logo.png" alt="Webpack" title="Webpack" style="height: 36px" />
 <img src="/logo-images/responsive-web-design.png" alt="Responsive Web Design" title="Responsive Web Design" style="height: 36px" />
+<img src="/logo-images/reactjs-logo.png" alt="ReactJS" title="ReactJS" style="height: 36px" />
+<img src="/logo-images/nextjs-logo.svg" alt="NEXT.JS" title="NEXT.JS" style="height: 36px" />
    
    
 ## Currently learning:   
-<img src="/logo-images/reactjs-logo.png" alt="ReactJS" title="ReactJS" style="height: 36px" /><img src="/logo-images/nextjs-logo.svg" alt="NEXT.JS" title="NEXT.JS" style="height: 36px" />
 <img src="/logo-images/nodejs-logo.png" alt="NodeJS" title="NodeJS" style="height: 36px" />
    
 Thanks for visiting my page! :)  
